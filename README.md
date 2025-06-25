@@ -1,2 +1,2 @@
 ## README test
-es correcto, no esta bien poner cualquier cosa
+yo ya lo valide y es verdad que no es correcto que cualquier cosa esta bien
